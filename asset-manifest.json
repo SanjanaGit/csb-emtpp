@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sanjanagit.github.io/csb-emtpp/static/css/main.965ec1f6.chunk.css",
+    "main.js": "https://sanjanagit.github.io/csb-emtpp/static/js/main.ef17f56e.chunk.js",
+    "main.js.map": "https://sanjanagit.github.io/csb-emtpp/static/js/main.ef17f56e.chunk.js.map",
+    "runtime-main.js": "https://sanjanagit.github.io/csb-emtpp/static/js/runtime-main.80347e91.js",
+    "runtime-main.js.map": "https://sanjanagit.github.io/csb-emtpp/static/js/runtime-main.80347e91.js.map",
+    "static/js/2.903aff9e.chunk.js": "https://sanjanagit.github.io/csb-emtpp/static/js/2.903aff9e.chunk.js",
+    "static/js/2.903aff9e.chunk.js.map": "https://sanjanagit.github.io/csb-emtpp/static/js/2.903aff9e.chunk.js.map",
+    "index.html": "https://sanjanagit.github.io/csb-emtpp/index.html",
+    "static/css/main.965ec1f6.chunk.css.map": "https://sanjanagit.github.io/csb-emtpp/static/css/main.965ec1f6.chunk.css.map",
+    "static/js/2.903aff9e.chunk.js.LICENSE.txt": "https://sanjanagit.github.io/csb-emtpp/static/js/2.903aff9e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80347e91.js",
+    "static/js/2.903aff9e.chunk.js",
+    "static/css/main.965ec1f6.chunk.css",
+    "static/js/main.ef17f56e.chunk.js"
+  ]
+}
